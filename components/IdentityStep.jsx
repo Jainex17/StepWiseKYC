@@ -28,7 +28,7 @@ export function IdentityStep({ data, onChange }) {
         >
           <option value="">Select document type</option>
           <option value="passport">Passport</option>
-          <option value="driverLicense">Driver's License</option>
+          <option value="driverLicense">Driver&apos;s License</option>
           <option value="nationalId">National ID</option>
         </select>
       </div>
